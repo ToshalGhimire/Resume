@@ -1,0 +1,44 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: rgb(85, 25, 226);
+  height: 180px;
+  padding: 10px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.Headertext {
+	text-align:center;
+  color:white;
+  font-family: 'Times New Roman', Times, serif
+	
+}
+
+.sub{
+	color:white;
+	font-family:impact;
+	letter-spacing: 1px;
+	text-shadow: 3px 3px black;
+	font-size:30pt;
+}
+
+.MyBody {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}

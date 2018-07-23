@@ -1,0 +1,31 @@
+.skillIntro {
+    text-align: center;
+    width: 80%;
+    line-height: 1.5;
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#languages {
+    text-align: center;
+    margin: 0 auto;
+    width: 80%;
+    line-height: 1.5;
+    font-size: 15px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#title {
+    text-align: center;
+    padding-inline-start: 0%;
+    line-height: 1.5;
+    font-size: 25px;
+    color: rgb(92, 2, 2);
+    
+}
+
+
+
+

@@ -1,0 +1,106 @@
+.speech-bubble {
+	margin-top: -15px;
+	border-style:solid;
+    background: #efefef;
+    -webkit-border-radius: 15px;
+            border-radius: 15px;
+    font-size: 1.5rem;
+    line-height: 1.6;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    position: relative;
+}
+
+.project-title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+#cpp_logo {
+	width: 150px;
+	height: 150px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#Paragraph_projects{
+	text-align:justify; 
+	padding-left:70px;
+	padding-right:70px;
+}
+
+#project_title{
+	text-align:center;
+	top:10px;
+	font-family: "Comic Sans MS";
+	
+}
+
+#CPP_Sandbox{
+	margin:0;
+	height: auto;
+
+}
+
+#Life{
+	margin:0;
+	height: auto;
+}
+
+#OriginalBoardGame{
+	margin:0;
+	height: auto;
+}
+
+#CollegeCrusaders{
+	margin:0 auto;
+	height: 200px;
+	
+}
+
+#data_image {
+    margin:0 auto;
+	height: 200px;
+}
+
+#project_hr{
+	display: block;
+    background-color:black;
+    margin-left:100px;
+	margin-right:100px;
+}
+
+
+
+#life_gif{
+	width: 300px;
+	height: 400px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#CC_image{
+	width: 400px;
+	height: 400px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+}
+
+#originalGame_picture{
+	width: 300px;
+	height: 400px;
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+

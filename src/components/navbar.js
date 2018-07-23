@@ -9,10 +9,8 @@ import Projects from './projects';
 
 
 
-
 class Nav extends Component {
   
-
   render() {
     return (
         <div id="Menu">
@@ -28,12 +26,14 @@ class Nav extends Component {
                             </ul>
                         </nav>
                     </div>
-
+                  
+                        
                     <Switch>
                         <Route path='/home' component={HomePage}/>
                         <Route path='/contact' component={Contact}/>
                         <Route path='/skills' component={Skills}/>
                         <Route path='/projects' component={Projects}/>
+                        <Route path="" component={HomePage}/>
 
                     </Switch>
                     

@@ -13,17 +13,9 @@ class App extends Component {
         <header className="App-header">
           <h3 className="Headertext">Toshal Ghimire</h3>
           <h1 className="sub">Software Developer</h1>
-          
         </header>
         <body>
-        <Nav/> 
-
-        <div className="MyBody">
-       
-        </div>   
-
-            
-        
+          <Nav/> 
         </body>
         
       </div>

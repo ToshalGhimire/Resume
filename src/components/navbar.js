@@ -5,6 +5,7 @@ import HomePage from './home';
 import Contact from './contact';
 import Skills from './skills';
 import Projects from './projects';
+import newProject from './newProjects';
 
 
 
@@ -20,7 +21,7 @@ class Nav extends Component {
                         <nav className="navbar" id="navbarList" >
                             <ul id="nli"> 
                             <Link to={"/home"} > <li>Home</li></Link>
-                            <Link to={"/projects"}> <li>Projects</li></Link>
+                            <Link to={"/Project"}> <li>Projects</li></Link>
                             <Link to={"/skills"} > <li>Skills</li></Link>
                             <Link to={"/contact"}> <li>Contact</li></Link>
                             </ul>
@@ -32,7 +33,7 @@ class Nav extends Component {
                         <Route path='/home' component={HomePage}/>
                         <Route path='/contact' component={Contact}/>
                         <Route path='/skills' component={Skills}/>
-                        <Route path='/projects' component={Projects}/>
+                        <Route path='/Project' component={newProject}/>
                         <Route path="" component={HomePage}/>
 
                     </Switch>

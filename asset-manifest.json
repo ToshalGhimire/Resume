@@ -1,8 +1,8 @@
 {
-  "main.css": "static/css/main.84b99d67.css",
-  "main.css.map": "static/css/main.84b99d67.css.map",
-  "main.js": "static/js/main.007bea40.js",
-  "main.js.map": "static/js/main.007bea40.js.map",
+  "main.css": "static/css/main.672ea1b3.css",
+  "main.css.map": "static/css/main.672ea1b3.css.map",
+  "main.js": "static/js/main.b35dcbf1.js",
+  "main.js.map": "static/js/main.b35dcbf1.js.map",
   "static\\media\\CClogo.png": "static/media/CClogo.9bc311c0.png",
   "static\\media\\GitHub-Mark.png": "static/media/GitHub-Mark.3e54ed15.png",
   "static\\media\\Home.png": "static/media/Home.d9d3f59f.png",
@@ -11,6 +11,6 @@
   "static\\media\\cpp_logo.png": "static/media/cpp_logo.614e81bd.png",
   "static\\media\\lifeGif.gif": "static/media/lifeGif.c1e99123.gif",
   "static\\media\\myPhoto.jpg": "static/media/myPhoto.aa663cfc.jpg",
-  "static\\media\\nflTeams.gif": "static/media/nflTeams.08a7dc7f.gif",
+  "static\\media\\nflTeams.gif": "static/media/nflTeams.be4f1bdf.gif",
   "static\\media\\originalGame.PNG": "static/media/originalGame.ddaf8f63.PNG"
 }

@@ -43,6 +43,7 @@
   margin-bottom: 20px;
 }
 
+<<<<<<< HEAD
 
 * {
   margin: 0px;
@@ -51,3 +52,8 @@
 }
 
 
+=======
+html {
+  overflow-y:scroll;
+}
+>>>>>>> d473d91307272f4c3600cad90162f872d307c609

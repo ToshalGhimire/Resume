@@ -12,6 +12,7 @@ class Skills extends Component {
         <h3 className="skillIntro">Everything listed below was learned from the computer science program at the University of Colorado in Boulder as well as resources found on the Internet. </h3>
 
         <hr/>
+        
         <h2 id="title"><b>Programing Languages</b></h2>
         <div id="languages">
           
@@ -77,10 +78,10 @@ class Skills extends Component {
             <ListGroupItem>Programing Project Workshop</ListGroupItem>
 
             <br/>
-            <h3><b>Curently enrolled </b></h3>
-            <ListGroupItem>Senior Capstone: Entrepreneurial Projects</ListGroupItem>
+            <h3><b>Curently Enrolled Fall 2018 </b></h3>
+            <ListGroupItem>CSCI Senior Capstone: Entrepreneurial Projects</ListGroupItem>
             <ListGroupItem>Object-Oriented Anlysis/Design</ListGroupItem>
-
+            <ListGroupItem>Machine Learning</ListGroupItem>
           </ul>
           
           

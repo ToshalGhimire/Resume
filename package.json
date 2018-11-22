@@ -4,8 +4,12 @@
   "private": true,
   "homepage": "https://toshalghimire.github.io/Resume/",
   "devDependencies": {
+<<<<<<< HEAD
     "gh-pages": "^1.0.0",
     "react-scripts": "^1.1.4"
+=======
+    "react-scripts": "1.0.13"
+>>>>>>> d473d91307272f4c3600cad90162f872d307c609
   },
   "dependencies": {
     "@material-ui/core": "^3.4.0",
